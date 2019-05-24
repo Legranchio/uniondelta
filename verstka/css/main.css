@@ -105,6 +105,24 @@ header a {
 	left: 25%;
 	top: 70%;
 }
+.text_inp {
+	display: block;
+	width: 80%;
+	margin: 8px auto;
+	border: 1px solid #333;
+	padding: 10px;
+}
+.send_form {
+	background-color: #1b1a1a;
+	padding: 15px;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 12px;
+	display: block;
+	width: 30%;
+	float: right;
+	margin-right: 25px;
+}
 .main_form div {
 	display: block;
 	margin: 0;
